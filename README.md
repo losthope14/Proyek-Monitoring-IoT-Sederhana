@@ -1,6 +1,6 @@
 # Proyek Monitoring IoT Sederhana
 
-Selamat datang di repositori untuk proyek monitoring IoT sederhana ini. Proyek ini bertujuan untuk memantau dan menampilkan data suhu dan temperatur dari perangkat IoT menggunakan berbagai teknologi modern.
+Selamat datang di repositori untuk proyek monitoring IoT sederhana ini. Proyek ini bertujuan untuk memantau dan menampilkan data suhu dan temperatur dari simulator perangkat IoT.
 
 ## Deskripsi Proyek
 
